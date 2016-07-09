@@ -1,4 +1,5 @@
 <?php
-	echo "Bob
+	echo "Bob<br>";
+	echo "Totot<br>";
 
 ?>
